@@ -32,4 +32,5 @@ fields:
   name: socialImage
   label: socialImage
 pages:
+- content/posts/aaaaaaa.md
 - content/posts/fghfh.md
