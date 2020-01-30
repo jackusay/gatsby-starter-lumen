@@ -23,3 +23,9 @@ socialImage: ''
 ![](/static/media/2020-01-30 21_25_09-AMD Athlon II X4 640 vs Intel Pentium G2120 @ 3.10GHz \[cpubenchmark.net\] by Pass.jpg)
 
 498
+
+Intel Celeron J1900 [https://browser.geekbench.com/processors/1513](https://browser.geekbench.com/processors/1513 "https://browser.geekbench.com/processors/1513")
+
+i5-2320 [https://browser.geekbench.com/processors/601](https://browser.geekbench.com/processors/601 "https://browser.geekbench.com/processors/601")
+
+645
