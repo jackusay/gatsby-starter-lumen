@@ -24,6 +24,8 @@ socialImage: ''
 
 498
 
+***
+
 Intel Celeron J1900 [https://browser.geekbench.com/processors/1513](https://browser.geekbench.com/processors/1513 "https://browser.geekbench.com/processors/1513")
 
 i5-2320 [https://browser.geekbench.com/processors/601](https://browser.geekbench.com/processors/601 "https://browser.geekbench.com/processors/601")
