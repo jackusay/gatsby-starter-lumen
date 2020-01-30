@@ -28,4 +28,14 @@ Intel Celeron J1900 [https://browser.geekbench.com/processors/1513](https://brow
 
 i5-2320 [https://browser.geekbench.com/processors/601](https://browser.geekbench.com/processors/601 "https://browser.geekbench.com/processors/601")
 
+cpu name | Single-Core Score | Multi-Core Score
+
+J1900 | 208 | 690
+
+AMD Athlon II X4 640 | 354 | 1162
+
+Intel Pentium G2120 | 601 | 1052
+
+i5-2320  | 644 | 2086
+
 645
