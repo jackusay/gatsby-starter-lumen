@@ -14,4 +14,16 @@ socialImage: ''
 
 若不是80 PLUS等級以上的，450W～550W左右的，1000元以下就有了：「不信你去對面原價屋看，450W最低只要699元，550W最低只要799元」
 
-  [http://www.pcdiy.com.tw/detail/2939](http://www.pcdiy.com.tw/detail/2939 "http://www.pcdiy.com.tw/detail/2939")
+[http://www.pcdiy.com.tw/detail/2939](http://www.pcdiy.com.tw/detail/2939 "http://www.pcdiy.com.tw/detail/2939")
+
+***
+
+ruten [400W](https://find.ruten.com.tw/s/?cateid=00110005002200020004&q=%E7%99%BD%E7%89%8C) 白牌
+
+XIGMATEK NRP-VC400 80+ 白牌 **$890**
+
+  [https://goods.ruten.com.tw/item/show?21636522876143](https://goods.ruten.com.tw/item/show?21636522876143 "https://goods.ruten.com.tw/item/show?21636522876143")
+
+Apexgaming 美商艾湃電競 AI 400W 白牌80PLUS $**1,090**
+
+  [https://goods.ruten.com.tw/item/show?21818977133459](https://goods.ruten.com.tw/item/show?21818977133459 "https://goods.ruten.com.tw/item/show?21818977133459")
