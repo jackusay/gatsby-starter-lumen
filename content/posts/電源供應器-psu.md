@@ -18,7 +18,7 @@ socialImage: ''
 
 ***
 
-ruten [400W](https://find.ruten.com.tw/s/?cateid=00110005002200020004&q=%E7%99%BD%E7%89%8C) 白牌
+ruten [400W](https://find.ruten.com.tw/s/?cateid=00110005002200020004&q=%E7%99%BD%E7%89%8C) 白牌:
 
 XIGMATEK NRP-VC400 80+ 白牌 **$890**
 
